@@ -1,0 +1,26 @@
+
+.container{
+
+	width :1150px;
+}
+
+ul .row{
+	margin: 0;
+
+
+	padding:0;
+}
+
+ul{
+
+	padding: 0;
+}
+
+.feature .row li {
+
+
+	list-style-type: none;
+	background-color: white;
+	width:33.3%;
+
+}
